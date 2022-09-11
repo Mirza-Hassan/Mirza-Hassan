@@ -6,6 +6,8 @@
     :sparkles: Favorite Tech: JavaScript, React, NodeJS ... <br>
     :notebook: I’m currently learning DS and Algo...  <br>
     :art: Portfolio: https://mhassan24.github.io <br>
-    ✍🏻 I do content writing for the community, so check my blogs: https://dev.to/mirzahassan
+    ✍🏻 I do content writing for the community, so check my blogs:  <br>
+    https://medium.com/@hassanbarlas50 <br>
+    https://dev.to/mirzahassan
   </samp>
 </p>
